@@ -1,2 +1,4 @@
 This is a dev file
 This is bugfix1
+
+Another bug fixes
