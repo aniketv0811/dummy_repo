@@ -1,4 +1,6 @@
 This is a dev file
 This is bugfix1
+New feature task
 Few more bug fixes 
 Another bug fixes
+
